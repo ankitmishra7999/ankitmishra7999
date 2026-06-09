@@ -32,5 +32,5 @@ Currently looking for roles in **Generative AI / RAG / Agentic AI development** 
 ---
 
 ## 📬 Let's connect
-- **LinkedIn**: [linkedin.com/in/ankitmishra](www.linkedin.com/in/ankit-mishra-b89270320) 
+- **LinkedIn**: [linkedin.com/in/ankit-mishra-b89270320](https://www.linkedin.com/in/ankit-mishra-b89270320)
 - **Email**: ankitmishra.03072000@gmail.com
