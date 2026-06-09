@@ -19,7 +19,7 @@ Currently looking for roles in **Generative AI / RAG / Agentic AI development** 
 
 ### GenAI & Agentic AI
 - **[FinRAG](https://github.com/ankitmishra7999/FinRAG)** – RAG over SEC filings using hybrid FAISS + BM25 search, FinBERT embeddings, multi‑turn memory, and a responsible‑AI guardrail. Built with LangChain, Streamlit, Mistral & Gemini.
-- **[Virtual Sales Agent](https://github.com/ankitmishra7999/VirtualSalesAgent)** – Agentic sales assistant with LangGraph state machine, tool‑use (search, orders), and human‑in‑the‑loop confirmation before final action. SQLite + Streamlit.
+- **[Virtual Sales AI Agent](https://github.com/ankitmishra7999/Virtual-Sales-AI-Agent)** – Agentic sales assistant with LangGraph state machine, tool‑use (search, orders), and human‑in‑the‑loop confirmation before final action. SQLite + Streamlit.
 
 ### Backend & Distributed Systems
 - **[Distributed Load Balancer](https://github.com/ankitmishra7999/LoadBalancer)** – Consistent hashing, sharding, replication, leader election, fault tolerance. 38% throughput boost, Dockerized. C, Python.
