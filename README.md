@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./iiith logo.jpg" width="120" alt="IIIT Hyderabad Logo">
+  <img src="./iiith logo.jpg" width="200" alt="IIIT Hyderabad Logo">
 </p>
 # Hi, I'm Ankit Mishra 👋
 
