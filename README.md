@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.iiit.ac.in/img/iiit-logo.png" width="300"/>
+</p>
+
 # Hi, I'm Ankit Mishra 👋
 
 **M.Tech CS @ IIIT Hyderabad** · AI/ML · GenAI · Backend Systems
