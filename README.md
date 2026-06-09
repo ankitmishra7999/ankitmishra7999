@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi, I'm Ankit Mishra 👋</h1>
 <h3 align="center">M.Tech CS @ IIIT Hyderabad · AI/ML · GenAI · Backend Systems</h3>
-<p align="center" style="font-size:18px;">
+<p align="center" style="font-size:18px; font-weight:bold; color:#000000;">
   I build RAG applications, agentic AI workflows, distributed systems, and ML models that actually work end‑to‑end.<br>
   Currently looking for roles in Generative AI / RAG / Agentic AI development and backend engineering.
 </p>
