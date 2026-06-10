@@ -10,11 +10,16 @@
 
 ---
 
-## 🧠 What I focus on
-- Generative AI & RAG (LangChain, LangGraph, hybrid retrieval, guardrails)
-- Agentic AI with human‑in‑the‑loop control
-- Distributed systems & fault‑tolerant backends
-- ML/NLP (transformers, ASR, recommendations)
+## 🧠 What I work on
+
+- **RAG & Retrieval Systems** — building pipelines that go beyond basic RAG,
+  focusing on retrieval quality, memory, and responsible-AI guardrails
+- **Agentic AI** — designing multi-step agents with tool-use and 
+  human-in-the-loop control flows
+- **Distributed Backend Systems** — fault-tolerant architectures with 
+  focus on consistency, replication, and performance
+- **ML & Transformers** — implementing models from scratch, not just 
+  fine-tuning existing ones
 
 ---
 
